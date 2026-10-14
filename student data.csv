@@ -1,0 +1,17 @@
+
+Student_ID,Name,Age,Gender,Course,Email,Phone,Marks
+S101,Rahul Sharma,20,Male,BCA,rahul.sharma@example.com,9876501001,85
+S102,Priya Verma,21,Female,MCA,priya.verma@example.com,9876501002,92
+S103,Amit Singh,19,Male,BSc,amit.singh@example.com,9876501003,76
+S104,Neha Gupta,20,Female,BCA,neha.gupta@example.com,9876501004,88
+S105,Arjun Meena,22,Male,MCA,arjun.meena@example.com,9876501005,81
+S106,Anjali Kumari,21,Female,BSc,anjali.kumari@example.com,9876501006,90
+S107,Rohit Yadav,20,Male,BCA,rohit.yadav@example.com,9876501007,67
+S108,Simran Kaur,19,Female,BCA,simran.kaur@example.com,9876501008,95
+S109,Vikas Joshi,22,Male,MCA,vikas.joshi@example.com,9876501009,73
+S110,Pooja Saini,20,Female,BSc,pooja.saini@example.com,9876501010,86
+S111,Karan Patel,21,Male,BCA,karan.patel@example.com,9876501011,79
+S112,Meena Kumari,19,Female,MCA,meena.kumari@example.com,9876501012,84
+S113,Deepak Kumar,22,Male,BSc,deepak.kumar@example.com,9876501013,71
+S114,Riya Choudhary,20,Female,BCA,riya.choudhary@example.com,9876501014,93
+S115,Mohit Jain,21,Male,MCA,mohit.jain@example.com,9876501015,89
